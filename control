@@ -1,0 +1,10 @@
+Package: com.imokhles.iwebsearchpro
+Name: iWebSearch Pro
+Depends: firmware (>= 5.0), com.saurik.substrate.safemode, com.chpwn.weeloader
+Version: 1.1b
+Architecture: iphoneos-arm
+Description: Enhancer Search Engines and more!
+Icon: file:///Library/WeeLoader/Plugins/iWebSearchPro.bundle/icon@2x.png
+Maintainer: iMokhles
+Author: iMokhles
+Section: Utilities

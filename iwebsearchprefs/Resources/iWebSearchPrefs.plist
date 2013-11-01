@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Fix Respring Bug</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.imokhles.iwebsearchpro</string>
+			<key>key</key>
+			<string>enable</string>
+			<key>label</key>
+			<string>toFix Respring Bug</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>iWebSearch Pro ( Enhancer webEngines and more ! )</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Mokhlas Hussein @iMokhles</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>CopyRights iMokhles LLC 2013 All Rights Reserved</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>DON'T WASTE YOUR TIME TO GET CRACKED VERSION CAUSE WITH PAID VERSION YOU GONNA BE ABLE TO UPDATE THIS PACKAGE BEFORE ANY CARCKED USER</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>iWebSearch Pro</string>
+</dict>
+</plist>
